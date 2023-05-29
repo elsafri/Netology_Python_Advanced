@@ -10,10 +10,6 @@ def main():
     people.get_employees()
 
 
-
-
-
-
 if __name__ == '__main__':
     main()
     print(f"Дата:{date.today()}")
