@@ -12,8 +12,6 @@ def main():
 
 
 
-
-
 if __name__ == '__main__':
     main()
     print(f"Дата:{date.today()}")
