@@ -1,7 +1,6 @@
-import salary
-import people
+from package_homework_1.application import salary
+from package_homework_1.application.db import people
 from datetime import date
-import pandas as pd
 
 
 def main():
